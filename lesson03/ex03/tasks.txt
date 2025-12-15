@@ -1,0 +1,4 @@
+Học Python;2025-01-10;todo
+Đi tập gym;2025-01-09;done
+Đi chơi;2025-01-08;done
+Hoc Toeic;2022-12-12;todo

@@ -1,0 +1,6 @@
+Python is a popular programming language. Python is created by Guido van Rossum.
+Why is Python popular? Because Python is easy to learn and Python is easy to read.
+Code, code, code! You can write less code in Python than in C++ or Java.
+PYTHON is powerful. python is fun.
+(Is Python interpret? Yes, it is.)
+[End of file]
